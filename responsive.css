@@ -1,0 +1,343 @@
+@media all and (max-width:992px){
+    .slider-content h1 {
+        font-size: 46px;
+    }
+    .slider-content p {
+        font-size: 16px;
+    }
+    body .btn-primary {
+        padding: 9px 34px;
+    }
+    .finix-text h2 {
+        font-size: 22px;
+    }
+    .finix-text h6 {
+        font-size: 15px;
+    }
+    .finix-text p {
+        font-size: 15px;
+    }
+    .finix-text strong {
+        font-size: 17px;
+    }
+    .ptb-100 {
+        padding-top: 85px;
+        padding-bottom: 85px;
+    }
+    .client-logo ul {
+        margin-bottom: 0px;
+    }
+    .finix-text ul {
+        margin-top: 15px;
+    }
+    .finix-text ul li {
+        font-size: 15px;
+    }
+    .finix-text ul a {
+        margin-top: 16px;
+    }
+    .about-img-text h2 {
+        font-size: 50px;
+    }
+    .about-img-text p {
+        font-size: 13px;
+        margin-top: -8px;
+    }
+    .about-img-text {
+        height: 160px;
+        width: 160px;
+    }
+    .play-animation-btn {
+        right: 325px;
+        bottom: 73px;
+    }
+    .business-title-section p {
+        width: 100%;
+    }
+    .apply-now-left h2 {
+        font-size: 27px;
+    }
+    .apply-time {
+        margin-top: -10px;
+    }
+    .apply-time ul li p {
+        font-size: 14px;
+    }
+    .apply-time ul li h2 {
+        font-size: 21px;
+        margin-bottom: 0px;
+    }
+    .why-us-text h6 {
+        font-size: 24px !important;
+    }
+    .why-us-text h2 {
+        font-size: 33px !IMPORTANT;
+    }
+    .why-us-text p {
+        font-size: 18px !important;
+    }
+    
+    .Calculation-rate {
+        background: #fdebeb;
+        padding: 25px 20px;
+    }
+    .calculate-form .form-group input {
+        padding: 7px 10px;
+    }
+    .calculate-form .form-group select {
+        height: 38px;
+    }
+    .calculate-form .form-group {
+        margin-bottom: 15px;
+    }
+    .Calculation-rate .finix-text {
+        margin-bottom: 20px !important;
+    }
+    .apply-time ul li {
+        margin-bottom: -20px;
+    }
+    .apply-time ul::before {
+        height: calc(100% - 75px);
+    }
+    .call-to-action-bg {
+        padding: 48px 50px;
+    }
+    .call-to-action-left h2 {
+        font-size: 21px;
+    }
+    .call-to-action-phone span i {
+        height: 65px;
+        width: 65px;
+        font-size: 35px;
+        top: -3px;    
+        left: -24px;
+    }
+    .call-to-action-phone a {
+        font-size: 18px;
+        left: 49px;
+        top: 14px;
+    }
+    .call-to-action-left::after {
+        top: -15px;
+        right: -12px;
+    }
+
+    company-value-text h2 {
+        font-size: 30px;
+    }
+    .values-items {
+        margin-bottom: 0px;
+    }
+    .value-content h3 {
+        font-size: 22px;
+        margin-bottom: -3px;
+    }
+    .value-content p {
+        margin-bottom: 5px;
+    }
+    .value-icon i {
+        font-size: 45px;
+        width: 30px;
+    }
+    .company-value-text h2 {
+        font-size: 32px;
+        margin-bottom: 25px !important;
+    }
+    .service-section .service-title-h2 {
+        font-size: 26px;
+    }
+    .service-section .service-title-p {
+        width: 100%;
+        font-size: 14px;
+    }
+    .services-tab-content-text h3 {
+        font-size: 23px;
+        margin-bottom: 4px;
+    }
+    .services-tab-content-text p {
+        line-height: 1.4;
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .services-tab-content ul h3 {
+        font-size: 23px;
+        margin-bottom: 3px;
+    }
+    .services-tab-content ul li {
+        line-height: 1.6rem;
+    }
+    .pt-160 {
+        padding-top: 95px;
+    }
+    .client-feedback-title p {
+        width: 100%;
+    }
+    .clients-feedback-section .clients-content-text p {
+        font-size: 18px;
+    }
+    .team-title-section p {
+        width: 100%;
+    }
+    .team-member .member-content {
+       margin-top: 15px;
+    }
+    .team-member .member-content h4 {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+    .team-member .member-content p {
+        font-size: 14px;
+    }
+    .team-member .member-img .mbr-social-profile ul li a {
+        font-size: 17px;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .success-story-title p {
+        width: 100%;
+    }
+    .success-story-title h2 {
+        margin: 5px 0px ;
+    }
+    .success-content h3 a {
+        font-size: 20px;
+    }
+    .footer-widget h3 {
+        font-size: 19px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+    .footer-widget img {
+        margin-top: -15px;
+    }
+    .footer-widget p {
+        margin-top: 17px;
+    }
+    .footer-contact-item a {
+        font-size: 14px;
+    }
+    .footer-contact-item span {
+        margin-right: 11px;
+        font-size: 18px;
+        left: 0px;
+    }
+    .widget-social {
+        width: 220px;
+    }
+    .footer-bottom-copyright p a {
+        font-size: 18px;
+    }
+}
+@media all and (max-width:768px){
+    .slider-content h1 {
+        font-size: 38px;
+    }
+    .about-image {
+        right: 0px;
+    }
+    .about-content {
+        left: 0px;
+        top: 55px;
+    }
+    .about-content h6 {
+        font-size: 23px !important;
+    }
+    .about-content h2 {
+        font-size: 26px !important;
+    }
+    .play-animation-btn {
+        right: 190px;
+        bottom: 71px;
+    }
+    .Calculation-rate {
+        margin-top: 70px;
+    }
+    .apply-now-left .btn-primary {
+        margin-top: 20px;
+    }
+    .call-to-action-left h2 {
+        font-size: 14px;
+    }
+    .call-to-action-phone span i {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+    .call-to-action-phone a {
+        font-size: 14px;
+        left: 35px;
+    }
+    .call-to-action-left::after {
+        top: -20px;
+        right: -6px;
+    }
+    .service-section .service-title-h2 {
+        font-size: 19px;
+    }
+    .services-tab-content-text {
+        margin-top: 35px;
+    }
+    .services-tab-items li a {
+        margin-top: 50px;
+    }
+    .clients-feedback-section .client-img {
+        margin-top: 45px;
+    }
+}
+@media all and (max-width:768px){
+    .slider-content h1 {
+        font-size: 29px;
+        width: 50%;
+    }
+    .slider-content p {
+        font-size: 15px;
+        width: 50%;
+    }
+    .client-logo ul {
+        position: relative;
+        left: 25px;
+    }
+    .logo-section{
+        padding-top: 55px;
+        padding-bottom: 55px;
+    }
+    .about-img-text {
+        height: 120px;
+        width: 120px;
+    }
+    .about-img-text h2 {
+        font-size: 30px;
+    }
+    .about-img-text p {
+        font-size: 10px;
+    }
+    .about-img-text {
+        right: 44px;
+        bottom: 28px;
+    }
+    .about-content h6 {
+        font-size: 18px !important;
+    }
+    .about-content h2 {
+        font-size: 20px !important;
+    }
+    .why-us-text h6 {
+        font-size: 18px !important;
+    }
+    .why-us-text h2 {
+        font-size: 24px !IMPORTANT;
+    }
+    .apply-now-left h2 {
+        font-size: 24px;
+    }
+    .call-to-action-left h2 {
+        width: 100%;
+        font-size: 15px !important;
+    }
+    company-value-text h2 {
+        font-size: 28px;
+    }
+    
+}
+ 
